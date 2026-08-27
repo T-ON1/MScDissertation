@@ -1,0 +1,11 @@
+parameter	value
+polymorphism_source	EnsembleTR Version II analysed with statSTR
+ensembletr_samples	3550
+minimum_nonmajor_allele_frequency	0.01
+minimum_called_alleles	100
+start_tolerance_bp	1
+minimum_reciprocal_overlap	0.66
+allele_definition	sequence alleles collapsed by repeat length
+full_catalogue_rows	11300796
+autosomal_catalogue_rows	10646330
+outside_autosomal_analysis_rows	654466
