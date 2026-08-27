@@ -12,3 +12,4 @@ statSTR - https://trtools.readthedocs.io/en/latest/source/statSTR.html
 
 EnsembleTR - https://github.com/gymrek-lab/EnsembleTR
 
+Lots of the Outputs were far too large for uploading to Github, so I have uploaded some smaller outputs
