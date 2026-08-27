@@ -1,0 +1,13 @@
+metric	value
+input_harmonised_files	10
+merged_rows	29229419
+deduplicated_rows	11300796
+removed_duplicate_rows	17928623
+same_start_duplicate_removed_rows	13007783
+near_start_duplicate_removed_rows	4920840
+deduplicated_rows_inheriting_genomic_feature	1257145
+not_checked_missing_required_value_rows	0
+start_coordinate_tolerance_bp	1
+deduplication_chromosome_rule	exact same chromosome required
+deduplication_motif_rule	same motif length required; motif sequence identity not required
+deduplication_end_coordinate_rule	end coordinate ignored
